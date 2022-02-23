@@ -23,13 +23,13 @@ The Dataset contains Amazon Sales Data consists of columns like Sales Amount, Sa
 
 ### Project Steps
 
-- **Data Import & Data Cleaning**
+##### Data Import & Data Cleaning
 Given Data was in excel file with impurties. We import Data in Jupyter Notebook for cleaning. Data Cleaning is a crucial stage before we start creating visuals. The dataset given some time has impurities such as missing values or incorrect data types. Data cleaning is performed in Python with Pandas library to remove missing values and make dataset ready for building visuals.
 
-- **Data Importing in Power BI**
+##### Data Importing in Power BI
 In Power BI, we have options to connect to our dataset via various options such as SQL Server, MYSQL, excel or CSV files. We have our clean data in CSV file. We will import it in Power BI with import data option and start working with it. 
 
-- **Data Transformation in Power Bi**
+###### Data Transformation in Power BI
 Once the data is imported in Power BI, we do ‘transform data’ i.e. using Power Query editor to perform certain operation on to the data. Ensuring correct data types, creating custom/conditional columns are some fundamental task performed in Power Query.
 
-- **Creating a Report in Power BI**
+##### Creating a Report in Power BI
