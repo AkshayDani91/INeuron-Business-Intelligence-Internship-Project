@@ -16,3 +16,7 @@ The Dataset contains Amazon Sales Data consists of columns like Sales Amount, Sa
 8.	Sales Quantity: Total number of items sold
 9.	Sales Representative: Representative under whom sale is completed.
 
+### Tools Used
+**Programming Language: Python
+Python Libraries: Numpy, Pandas
+Business Intelligence Tools: Excel, Power BI**
