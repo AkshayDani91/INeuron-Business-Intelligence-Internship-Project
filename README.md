@@ -5,7 +5,8 @@ The management team of Amazon currently looking to understand market behavior an
 
 ### Data Description:
 
-The Dataset contains Amazon Sales Data consists of columns like Sales Amount, Sales Quantity, Margin Amount, Sales Cost, Items, Item Orders, Sales Representatives, Item Class and Date of Order.
+The Dataset consists of following columns:
+
 1.	Discount Amount: Discount on every ordered item
 2.	Date: Ordered Date
 3.	Item: Name of the item ordered
