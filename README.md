@@ -34,7 +34,7 @@ In Power BI, we have options to connect to our dataset via various options such 
 Once the data is imported in Power BI, we do ‘transform data’ i.e. using Power Query editor to perform certain operation on to the data. Ensuring correct data types, creating custom/conditional columns are some fundamental task performed in Power Query.
 
 ##### Creating a Report in Power BI
-A report is created in Power BI with various charts depicting Sales insighst for particular year, month and so on. We created Slicers, Data Cards, Sales Trend for Year and Month, Table for top ordered item, top performing sales representatives and relatiosnhip between different variables that directly or indirectly impact sales.
+A report is created in Power BI with various charts depicting Sales insights for particular year, month and so on. We created Slicers, Data Cards, Sales Trend for Year and Month, Table for top ordered item, top performing sales representatives and relationship between different variables that directly or indirectly impact sales.
 
 ##### Deployment in Power BI
 In Power BI, You can directly publish the report online to your workstation. If you do not have the work email-id then you can save the file in ‘.pbix’ version. This helps another viewer see your work and understand the story or insights you’re communicating.
