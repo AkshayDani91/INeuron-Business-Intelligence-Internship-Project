@@ -25,7 +25,7 @@ The Dataset consists of following columns:
 ### Project Steps
 
 ##### Data Import & Data Cleaning
-Given Data was in excel file with impurties. We import Data in Jupyter Notebook for cleaning. Data Cleaning is a crucial stage before we start creating visuals. The dataset given some time has impurities such as missing values or incorrect data types. Data cleaning is performed in Python with Pandas library to remove missing values and make dataset ready for building visuals.
+Given Data was in excel file with impurities. We import Data in Jupyter Notebook for cleaning. Data Cleaning is a crucial stage before we start creating visuals. The dataset given some time has impurities such as missing values or incorrect data types. Data cleaning is performed in Python with Pandas library to remove missing values and make dataset ready for building visuals.
 
 ##### Data Importing in Power BI
 In Power BI, we have options to connect to our dataset via various options such as SQL Server, MYSQL, excel or CSV files. We have our clean data in CSV file. We will import it in Power BI with import data option and start working with it. 
